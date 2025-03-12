@@ -6,7 +6,7 @@ let user = {
     }
     dd2
     dqdq
-
+2e2r
 };
 
 console.log('Привет, я' +" "+`${user.name.firstName} ${user.name.lastName}`);
