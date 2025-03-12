@@ -4,6 +4,9 @@ let user = {
         lastName: 'Petrov',
         firstName: 'Max',
     }
+    dd2
+    dqdq
+
 };
 
 console.log('Привет, я' +" "+`${user.name.firstName} ${user.name.lastName}`);
